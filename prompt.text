@@ -1,0 +1,19 @@
+"Design a modern, visually stunning, and mobile-friendly UI for a Movie/TV-Series Finder website. The website should include:
+
+A prominent search bar at the top for users to search movies or TV series.
+
+Search results displayed as stylish cards showing: title, year, type (movie/series), and poster.
+
+Clicking on a card opens a detailed view with: genre, director, actors, plot, IMDB rating, and poster.
+
+Clean, modern design with smooth animations, consistent spacing, and a visually appealing color palette.
+
+Fully responsive layout for desktop, tablet, and mobile.
+
+Dynamic data fetching from my API using the OMDb API with base URL http://www.omdbapi.com/ and API key [api_key].
+
+Include hover effects for cards, easy-to-read typography, and a subtle modern background.
+
+Focus on usability, fast navigation, and aesthetic appeal.
+
+Generate the complete front-end UI design mockup including interactive elements, card layouts, and detail view, suitable for implementation in React or vanilla HTML/CSS/JS."

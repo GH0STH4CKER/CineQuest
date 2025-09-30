@@ -48,7 +48,7 @@ Clicking on a card opens a detailed view including:
 ## Lovable AI Prompt
 
 The full prompt used to generate the project can be found here:  
-[Prompt File](https://github.com/GH0STH4CKER/CineQuest/blob/main/prompt.text)
+[Prompt File](https://github.com/GH0STH4CKER/CineQuest/blob/main/prompt.txt)
 
 **Example for Lovable AI:**  
 
